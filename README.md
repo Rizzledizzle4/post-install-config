@@ -33,7 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/55639460-0afd-4c32-93b9-f2399f0fc95e)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Roles
+Supreme Admin
+
 </p>
 <br />
 
@@ -41,8 +43,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/756f3da2-d2b6-4e46-9f94-ddcaf295dc38)
 
 
+Admin Panel -> Agents -> Departments
+System Administrators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -51,15 +54,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
+
 </p>
 <br />
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/9e64e039-361d-4fd5-a295-f9a8eef5eb3d)
 
+Admin Panel -> Agents -> Add New
+Jane,
+John
+
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/9e03ea55-783a-4695-8ac8-4f0407dc9924)
 
+Agent Panel -> Users -> Add New
+Karen,
+Ken
 
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/35b3ecdc-9ac2-40da-b487-96a150232f45)
+
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
