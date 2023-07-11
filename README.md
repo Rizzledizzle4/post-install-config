@@ -56,3 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/9e64e039-361d-4fd5-a295-f9a8eef5eb3d)
+
+
+![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/9e03ea55-783a-4695-8ac8-4f0407dc9924)
