@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 Admin Panel -> Agents -> Roles
-Supreme Admin
+Supreme Admin.
 
 </p>
 <br />
@@ -44,7 +44,7 @@ Supreme Admin
 
 
 Admin Panel -> Agents -> Departments
-System Administrators
+System Administrators.
 
 </p>
 <br />
@@ -56,7 +56,7 @@ System Administrators
 <p>
 Admin Panel -> Agents -> Teams
 Level I Support
-Level II Support
+Level II Support.
 
 </p>
 <br />
@@ -65,14 +65,14 @@ Level II Support
 
 Admin Panel -> Agents -> Add New
 Jane,
-John
+John.
 
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/9e03ea55-783a-4695-8ac8-4f0407dc9924)
 
 Agent Panel -> Users -> Add New
 Karen,
-Ken
+Ken.
 
 
 ![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/35b3ecdc-9ac2-40da-b487-96a150232f45)
@@ -80,4 +80,4 @@ Ken
 Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+Sev-C (8 hours, business hours).
