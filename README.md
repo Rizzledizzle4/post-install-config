@@ -81,3 +81,13 @@ Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours).
+
+
+![image](https://github.com/Rizzledizzle4/post-install-config/assets/135624545/09a1e5f6-0af4-4b17-92f9-10c8ce86c3b2)
+
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset.
+
